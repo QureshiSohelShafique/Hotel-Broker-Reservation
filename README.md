@@ -1,5 +1,5 @@
 <h1 align='center'> Hotel Broker Reservation </h1>
-<h4 align='center'> A Node.js web-based application hotel reservation system, that acts a broker between hotels and customers. <br/>This team project was developed as the Database Systems course final project in Fall 2018/2019 Offering.</h4>
+<h4 align='center'> A Node.js web-based application hotel reservation system, that acts a broker between hotels and customers. <br/>This team project was developed as the Database Systems course project in Fall 2023/2024 Offering.</h4>
 <p align='center'><img src='docs/images/cover.png'/></p>
 
 ## Overview
