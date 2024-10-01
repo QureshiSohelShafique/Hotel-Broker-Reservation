@@ -1,4 +1,4 @@
-<h1 align='center'> Hotel Broker </h1>
+<h1 align='center'> Hotel Broker Reservation </h1>
 <h4 align='center'> A Node.js web-based application hotel reservation system, that acts a broker between hotels and customers. <br/>This team project was developed as the Database Systems course final project in Fall 2018/2019 Offering.</h4>
 <p align='center'><img src='docs/images/cover.png'/></p>
 
@@ -63,15 +63,5 @@ Next, we list the file structure of the application for convience:
         └── CSS  
 
 Lastly, we mention that we have built wire-frames for the whole website design taht we worked on and it can be found in [this folder](docs/wire-frames/).
-
-## Team Acknowledgments
-
-- Amr Elzawawy [@Elzawawy](https://github.com/Elzawawy)
-- Amr Ramadan   [@amramdan](https://github.com/amramadan)
-- Ismail Elyamany [@IsmailElYamany](https://github.com/IsmailElYamany)
-- Rami Khafagi [@ramikhafagi96](https://github.com/ramikhafagi96)
-- Mohamed Tarek [@mohamedtaarek](https://github.com/mohamedtaarek)
-
----
 
 <h3 align='center'>Made with :heart:</h3>
